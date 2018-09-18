@@ -41,7 +41,7 @@ h2:after{
   margin-left: 10px;
 }
 body {
-    background-image: url("_bg_light.png");
+    background-image: url("bg_light.png");
 }
 ul,figure {
     font-family:partybusiness;
@@ -107,7 +107,7 @@ figcaption {
 }
 .isibisi {
     position: relative;
-    background: url("_bg_dark.png");
+    background: url("bg_dark.png");
     padding: 10px;
     border-radius: 10px 10px 10px 10px;
 }
